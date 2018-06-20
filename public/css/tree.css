@@ -1,0 +1,25 @@
+
+.node.level-1 .name {
+    padding-left: 10px;
+}
+
+
+.node.level-2 .name {
+    padding-left: 30px;
+}
+
+.node.level-3 .name {
+    padding-left: 50px;
+}
+
+.node.level-4 .name {
+    padding-left: 70px;
+}
+
+
+.node.level-5 .name {
+    padding-left: 90px;
+}
+
+.node {
+}
